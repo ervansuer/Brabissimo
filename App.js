@@ -33,6 +33,7 @@ class App extends Component {
                     removeCharacter={this.removeCharacter}
                 />
                 <h3>Falatu</h3>
+                <h3>FalatuDois</h3>
                 <Form handleSubmit={this.handleSubmit} />
             </div>
         );
